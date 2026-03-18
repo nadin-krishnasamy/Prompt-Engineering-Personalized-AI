@@ -16,3 +16,10 @@ Collect feedback or inputs from users and adapt responses accordingly.
 Daily Task Manager: o Accept tasks via natural language (e.g., "Remind me to call mom at 6 PM"). o Organize tasks by priority and deadline. o Provide daily summaries and pending items.
 Smart Scheduler: o Schedule events and set reminders using contextual understanding. o Notify user of overlapping appointments or free time slots.
 Wellness Tips Generator: o Suggest daily wellness advice (hydration, exercise, screen-time breaks). o Adapt suggestions based on past user preferences and responses.
+
+Output:
+
+![output](image.png)
+
+Result:
+The lab exercise resulted in the creation of a prototype concept for a personal assistant powered by large language models. Students were able to:  Understand how to tailor LLM prompts to real-life applications.  Foster creativity by designing features suited to their personal or academic lives.  Learn prompt engineering techniques for optimal interaction with AI tools.  Experience the versatility and utility of generative AI in solving everyday problems.
